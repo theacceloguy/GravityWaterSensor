@@ -1,0 +1,30 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Borewell v01
+*Date=10:44:30
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;52.6815;-87.771;90;Bottom;J1
+2;;;125.984;-46.0021;90;Bottom;TXT1
+3;;THT;17.1215;-72.531;0;Bottom;SIM800L
+4;;;4.42148;-82.691;0;Bottom;Hole3
+5;;;123.801;-85.231;0;Bottom;Hole1
+6;;;27.2815;-64.911;0;Bottom;Via1
+7;;;126.341;-3.95096;0;Bottom;Hole2
+8;;;95.724;-1.41096;0;Top;TXT2
+9;;THT;52.6815;-77.611;90;Bottom;Mag Sensor
+10;;;35.3615;-78.1754;0;Bottom;OLED
+11;;;4.42148;-3.95096;0;Bottom;Hole4
+12;;;90.8202;-76.3092;90;Bottom;Mod1
+13;;THT;53.9515;-67.451;90;Bottom;Motor Driver L298N
+14;;;15.8515;-3.95096;180;Bottom;Switch
+15;;;62.7988;-33.161;0;Bottom;Mega
