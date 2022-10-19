@@ -1,0 +1,25 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=GWS RechargeWell PCB
+*Date=10:47:04
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;6.21284;-26.0757;90;Bottom;OLED
+2;;THT;5.6484;-51.9357;0;Bottom;SIM800L
+3;;;1.88383;-34.3979;90;Bottom;TXT1
+4;;;51.3185;-1.44335;0;Top;TXT2
+5;;;3.1083;-3.6758;0;Bottom;Hole2
+6;;molex-1x6-ra_lock;24.6984;-6.85706;0;Bottom;MOLEX
+7;;;3.1083;-64.6357;0;Bottom;Hole1
+8;;;69.1483;-64.6357;0;Bottom;Hole4
+9;;;69.1483;-3.6758;0;Bottom;Hole3
+10;;;45.0495;-37.9657;0;Bottom;Arduino
